@@ -29,7 +29,14 @@ Experimental game made by girls, for girls (age 6-11).
 ## MVP
 
 - 2 pets
+    - squirrel (earth)
+    - cat (fairy)
 - 3 trainings
+    - punching bag (both)
+    - jump rope (s)
+    - infinite runner style, get coins
 - 2 battle enemies
+    - lion
+    - cat
 - 1 lady thing she can do like bathing
 - food store: 2-3 foods
